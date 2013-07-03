@@ -2,7 +2,6 @@
         'name' : 'Do homework',
         'complete' : true
     }, {
-        'name' : 'Feed cats',
     	'complete' : true
     }, {
         'name' : 'call mom',
